@@ -1,3 +1,1 @@
-### Hi there, I'm sultanhassan 👋
-
-![sultanhassan.'s GitHub Stats](https://github-readme-stats.vercel.app/api?username=synplatina&show_icons=true)
+### Hey there, I'm sultanhassan 👋
